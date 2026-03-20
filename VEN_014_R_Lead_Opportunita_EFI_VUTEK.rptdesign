@@ -3921,10 +3921,10 @@ WHERE        dbo.Apps.app_TipoApp = 'VECOIN'
                 </cell>
             </row>
             <row id="2830">
-                <property name="height">1.4791666666666667in</property>
                 <cell id="2831">
                     <table id="3012">
                         <property name="verticalAlign">middle</property>
+                        <property name="canShrink">false</property>
                         <property name="width">11.0625in</property>
                         <property name="dataSet">dettaglioOpportunità</property>
                         <list-property name="boundDataColumns">
